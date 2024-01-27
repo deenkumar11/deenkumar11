@@ -8,7 +8,7 @@ I'm a web developer who loves to create dynamic and beautiful websites using Rea
 
 * 🌍  I'm based in Chennai, Tamilnadu, India.
 * ✉️  You can contact me at [deenkumar11@gmail.com](mailto:deenkumar11@gmail.com)
-* 🧠  I'm learning react-framer-motion.
+* 🧠  I'm currently learning NextJS.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
